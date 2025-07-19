@@ -1,13 +1,6 @@
+## PRODCUT CATALOG FILTERING UI 
 
-
----
-
-
-
-````markdown
-# 🛍️ Product Catalog Filtering UI
-
-This is a simple frontend application built with **React** that displays a list of products and allows users to filter them by **category**, **brand**, and **price range**. It demonstrates client-side filtering using mock product data.
+This is a simple frontend application built with React that displays a list of products and allows users to filter them by **category**, **brand**, and **price range**. It demonstrates client-side filtering using mock product data.
 
 ---
 
